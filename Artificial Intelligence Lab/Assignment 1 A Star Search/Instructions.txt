@@ -1,0 +1,3 @@
+The provided skeleton was a pseudocode. You are free to and will need to add  necessary member variables, functions, and change constructors' and other functions' argument list to solve the problem. More concrete Java examples are uploaded here to assist you. Again, you are free to and may need to do necessary changes. 
+
+You may use the number of nodes the A* Search expands, as an indicator of your heuristic's performance in terms of runtime. 

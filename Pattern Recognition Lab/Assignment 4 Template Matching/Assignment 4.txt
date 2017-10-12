@@ -1,0 +1,9 @@
+You need to implement the three template matching algorithms covered in the class, namely: 
+
+1. Basic/brute force search
+
+2. 2D logarithmic search
+
+3. Hierarchical search
+
+Use the attached files for testing.

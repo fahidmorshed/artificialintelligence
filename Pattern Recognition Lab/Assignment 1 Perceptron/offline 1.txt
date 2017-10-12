@@ -1,0 +1,22 @@
+Offline 1 for Section 1
+1. You are required to implement the following variations of the perceptron algorithms
+
+A. For data with two classes
+
+i. Normal
+
+ii. Pocket
+
+iii. Reward and punishment
+
+Use the following sample data set for (i-iii): Training, Test
+
+B. For data with more than two classes
+
+iv. Kesler's construction
+
+Use the following sample data set for (iv): Training, Test
+
+- Note that there will be an online on this on the next class.
+
+Last modified: Monday, 19 September 2016, 2:30 PM
